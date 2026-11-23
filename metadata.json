@@ -1,0 +1,6 @@
+{
+  "name": "ECHO",
+  "description": "Personal AI assistant for Himel featuring voice interaction, live conversation, phone control, real-time research, English tutor, creative studio, and local-first memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
